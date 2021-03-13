@@ -1,2 +1,2 @@
 # mdff
-Make and Initiates default folders directories and files
+Make and Initiates default folders directories and files.

@@ -1,0 +1,35 @@
+{
+  "name": "mdff",
+  "version": "1.0.0",
+  "description": "Make and Initiates default folders directories and files.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sromexs/mdff.git"
+  },
+  "keywords": [
+    "make",
+    "defaults",
+    "init",
+    "folders",
+    "init",
+    "files",
+    "init",
+    "directories",
+    "build",
+    "directories"
+  ],
+  "author": "Sadra Bahrami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sromexs/mdff/issues"
+  },
+  "homepage": "https://github.com/sromexs/mdff#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.34"
+  }
+}
