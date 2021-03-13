@@ -1,2 +1,2 @@
-# mdff
-Make and Initiates default folders directories and files.
+# bdff
+Make Build and initiates default folders directories and files.
