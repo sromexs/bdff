@@ -1,6 +1,6 @@
 {
   "name": "bdff",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Make Build and initiates default folders directories and files.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
